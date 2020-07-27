@@ -1,0 +1,23 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omprakashch3/covid-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omprakashch3/covid-19/issues"
+  },
+  "homepage": "https://github.com/omprakashch3/covid-19#readme",
+  "dependencies": {
+    "express-handlebars": "^5.1.0",
+    "novelcovid": "^3.0.0"
+  }
+}
